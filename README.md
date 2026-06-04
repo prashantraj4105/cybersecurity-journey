@@ -1,2 +1,19 @@
 # cybersecurity-journey
 TryHackMe writeups, notes and cybersecurity learning journey
+# Cybersecurity Journey 🔐
+
+> 3rd Year CS Student | GATE 2028 Aspirant | Offensive Security
+
+## About
+Documenting my cybersecurity learning journey through TryHackMe labs,
+notes, and writeups. Target: 30 labs before LinkedIn series.
+
+## TryHackMe Writeups
+
+| # | Room | Date | Flag | Article |
+|---|------|------|------|---------|
+| 1 | Defensive Security Intro | Jun 4, 2026 | ✅ | [Medium](https://medium.com/@rajprashantwork/i-investigated-my-first-cyber-attack-heres-what-a-soc-analyst-actually-does-81f12e9a1c00) |
+
+## Stats
+- 🔐 Labs Completed: 1 / 30
+- 📝 Writeups Published: 1
