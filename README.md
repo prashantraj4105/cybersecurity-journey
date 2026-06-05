@@ -6,7 +6,7 @@ TryHackMe writeups, notes and cybersecurity learning journey
 
 ## About
 Documenting my cybersecurity learning journey through TryHackMe labs,
-notes, and writeups. Target: 30 labs before LinkedIn series.
+notes, and writeups.
 
 ## TryHackMe Writeups
 
