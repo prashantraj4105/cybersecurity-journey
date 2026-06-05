@@ -20,4 +20,4 @@ notes, and writeups. Target: 30 labs before LinkedIn series.
 - 🔐 Labs Completed: 1 / 30
 - 📝 Writeups Published: 1
 - 🔐 Labs Completed: 2 / 30
-- Labs Completed: 3 / 30
+-    Labs Completed: 3 / 30
