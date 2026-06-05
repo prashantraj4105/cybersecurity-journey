@@ -14,10 +14,10 @@ notes, and writeups. Target: 30 labs before LinkedIn series.
 |---|------|------|------|---------|
 | 1 | Defensive Security Intro | Jun 4, 2026 | ✅ | [Medium](https://medium.com/@rajprashantwork/i-investigated-my-first-cyber-attack-heres-what-a-soc-analyst-actually-does-81f12e9a1c00) |
 | 2 | Careers in Cyber | Jun 5, 2026 | N/A | 
-| 3 | What is Networking? | Jun 5, 2026 | ✅ x2 | [Medium](your link) |
+| 3 | What is Networking? | Jun 5, 2026 | ✅ x2 | [Medium](https://medium.com/p/5b248c01d150?postPublishedType=initial) |
 
 ## Stats
-- 🔐 Labs Completed: 1 / 30
-- 📝 Writeups Published: 1
-- 🔐 Labs Completed: 2 / 30
--    Labs Completed: 3 / 30
+- Labs Completed: 1 / 30
+-  Writeups Published: 1
+- Labs Completed: 2 / 30
+- Labs Completed: 3 / 30
