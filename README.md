@@ -13,7 +13,9 @@ notes, and writeups. Target: 30 labs before LinkedIn series.
 | # | Room | Date | Flag | Article |
 |---|------|------|------|---------|
 | 1 | Defensive Security Intro | Jun 4, 2026 | ✅ | [Medium](https://medium.com/@rajprashantwork/i-investigated-my-first-cyber-attack-heres-what-a-soc-analyst-actually-does-81f12e9a1c00) |
+| 2 | Careers in Cyber | Jun 5, 2026 | N/A | LinkedIn Series |
 
 ## Stats
 - 🔐 Labs Completed: 1 / 30
 - 📝 Writeups Published: 1
+- - 🔐 Labs Completed: 2 / 30
