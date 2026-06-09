@@ -22,3 +22,4 @@ notes, and writeups.
 -  Writeups Published: 1
 - Labs Completed: 2 / 30
 - Labs Completed: 3 / 30
+- Labs Completed: 4 / 30
