@@ -15,6 +15,7 @@ notes, and writeups.
 | 1 | Defensive Security Intro | Jun 4, 2026 | ✅ | [Medium](https://medium.com/@rajprashantwork/i-investigated-my-first-cyber-attack-heres-what-a-soc-analyst-actually-does-81f12e9a1c00) |
 | 2 | Careers in Cyber | Jun 5, 2026 | N/A | 
 | 3 | What is Networking? | Jun 5, 2026 | ✅ x2 | [Medium](https://medium.com/p/5b248c01d150?postPublishedType=initial) |
+| 4 | Intro to LAN | Jun 9, 2026 | N/A | YouTube walkthrough |
 
 ## Stats
 - Labs Completed: 1 / 30
