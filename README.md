@@ -17,6 +17,7 @@ notes, and writeups.
 | 3 | What is Networking? | Jun 5, 2026 | ✅ x2 | [Medium](https://medium.com/p/5b248c01d150?postPublishedType=initial) |
 | 4 | Intro to LAN | Jun 9, 2026 | N/A | YouTube walkthrough |
 | 5 | OSI Model | Jun 10, 2026 | N/A | YouTube walkthrough |
+| 6 | Extending Your Network | Jun 13, 2026 | N/A | YouTube walkthrough |
 
 ## Stats
 - Labs Completed: 1 / 30
@@ -25,3 +26,4 @@ notes, and writeups.
 - Labs Completed: 3 / 30
 - Labs Completed: 4 / 30
 - Labs Completed: 5 / 30
+- Labs Completed: 6 / 30
