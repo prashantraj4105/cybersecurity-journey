@@ -18,12 +18,13 @@ notes, and writeups.
 | 4 | Intro to LAN | Jun 9, 2026 | N/A | YouTube walkthrough |
 | 5 | OSI Model | Jun 10, 2026 | N/A | YouTube walkthrough |
 | 6 | Extending Your Network | Jun 13, 2026 | N/A | YouTube walkthrough |
+| 7 | DNS in Detail | Jun 14, 2026 | ✅ | [Medium]((https://medium.com/@rajprashantwork/i-found-a-hidden-flag-inside-a-dns-record-heres-how-dns-actually-works-c3f7ad781aaf?postPublishedType=initial)) |
 
 ## Stats
 - Labs Completed: 1 / 30
--  Writeups Published: 1
 - Labs Completed: 2 / 30
 - Labs Completed: 3 / 30
 - Labs Completed: 4 / 30
 - Labs Completed: 5 / 30
 - Labs Completed: 6 / 30
+- Labs Completed: 7 / 30
