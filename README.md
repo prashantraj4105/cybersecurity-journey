@@ -23,11 +23,4 @@ notes, and writeups.
 
 
 ## Stats
-- Labs Completed: 1 / 30
-- Labs Completed: 2 / 30
-- Labs Completed: 3 / 30
-- Labs Completed: 4 / 30
-- Labs Completed: 5 / 30
-- Labs Completed: 6 / 30
-- Labs Completed: 7 / 30
 - Labs Completed: 8 / 30
