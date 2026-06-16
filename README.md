@@ -23,4 +23,5 @@ notes, and writeups.
 
 
 ## Stats
-- Labs Completed: 8 / 30
+- 🔐 Labs Completed: 8 / 30
+- 📝 Medium Articles Published: 4
