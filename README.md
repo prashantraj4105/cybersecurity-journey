@@ -20,8 +20,9 @@ notes, and writeups.
 | 6 | Extending Your Network | Jun 13, 2026 | N/A | YouTube walkthrough |
 | 7 | DNS in Detail | Jun 14, 2026 | ✅ | [Medium]((https://medium.com/@rajprashantwork/i-found-a-hidden-flag-inside-a-dns-record-heres-how-dns-actually-works-c3f7ad781aaf?postPublishedType=initial)) |
 | 8 | HTTP in Detail | Jun 14, 2026 | ✅ x6 | [Medium](https://medium.com/@rajprashantwork/i-deleted-a-user-hijacked-a-login-and-got-6-flags-http-explained-49a45a88a69a) |
+| 9 | How Websites Work | Jun 16, 2026 | HTML Injection ✅ | [Medium](https://medium.com/@rajprashantwork/i-turned-a-whats-your-name-field-into-a-malicious-link-my-first-html-injection-aada50600f95?postPublishedType=repub) |
 
 
 ## Stats
-- 🔐 Labs Completed: 8 / 30
-- 📝 Medium Articles Published: 4
+- 🔐 Labs Completed: 9 / 30
+- 📝 Medium Articles Published: 5
