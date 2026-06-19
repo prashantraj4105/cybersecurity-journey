@@ -22,8 +22,9 @@ notes, and writeups.
 | 8 | HTTP in Detail | Jun 14, 2026 | ✅ x6 | [Medium](https://medium.com/@rajprashantwork/i-deleted-a-user-hijacked-a-login-and-got-6-flags-http-explained-49a45a88a69a) |
 | 9 | How Websites Work | Jun 16, 2026 | HTML Injection ✅ | [Medium](https://medium.com/@rajprashantwork/i-turned-a-whats-your-name-field-into-a-malicious-link-my-first-html-injection-aada50600f95?postPublishedType=repub) |
 | 10 | Putting It All Together | Jun 19, 2026 | ✅ | GitHub only |
+| 11 | Inside Your Computer | Jun 19, 2026 | N/A | GitHub only |
 
 
 ## Stats
-- 🔐 Labs Completed: 10 / 30
+- 🔐 Labs Completed: 11 / 30
 - 📝 Medium Articles Published: 5
