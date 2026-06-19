@@ -24,8 +24,9 @@ notes, and writeups.
 | 10 | Putting It All Together | Jun 19, 2026 | ✅ | GitHub only |
 | 11 | Inside Your Computer | Jun 19, 2026 | N/A | GitHub only |
 | 12 | Computer Types | Jun 19, 2026 | N/A | GitHub only |
+| 13 | Client Server Basics | Jun 2026 | N/A | YouTube walkthrough |
 
 
 ## Stats
-- 🔐 Labs Completed: 12 / 30
+- 🔐 Labs Completed: 13 / 30
 - 📝 Medium Articles Published: 5
