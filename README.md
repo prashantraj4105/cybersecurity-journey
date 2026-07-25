@@ -26,8 +26,9 @@ notes, and writeups.
 | 12 | Computer Types | Jun 19, 2026 | N/A | GitHub only |
 | 13 | Client Server Basics | Jun 2026 | N/A | YouTube walkthrough |
 | 14 | Virtualisation Basics | Jun 2026 | N/A | YouTube walkthrough |
+| 15 | Cloud Computing Basics | Jun 2026 | N/A | YouTube walkthrough |
 
 
 ## Stats
-- 🔐 Labs Completed: 14 / 30
+- 🔐 Labs Completed: 15 / 30
 - 📝 Medium Articles Published: 5
