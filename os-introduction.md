@@ -4,7 +4,7 @@
 - **Room:** Operating Systems Introduction
 - **Date Completed:** June 2026
 - **Flag:** THM{new_pc_for_free!}
-- **Medium Article:** [Read here](https://medium.com/@rajprashantwork)
+- **Medium Article:** (https://medium.com/@rajprashantwork](https://medium.com/@rajprashantwork/why-your-apps-cant-touch-your-hardware-directly-operating-systems-7255cb748420))
 
 ---
 
