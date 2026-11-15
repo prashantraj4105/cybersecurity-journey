@@ -27,8 +27,9 @@ notes, and writeups.
 | 13 | Client Server Basics | Jun 2026 | N/A | YouTube walkthrough |
 | 14 | Virtualisation Basics | Jun 2026 | N/A | YouTube walkthrough |
 | 15 | Cloud Computing Basics | Jun 2026 | N/A | YouTube walkthrough |
+| 16 | Operating Systems Introduction | Jun 2026 | ✅ | [Medium](your link) |
 
 
 ## Stats
-- 🔐 Labs Completed: 15 / 30
-- 📝 Medium Articles Published: 5
+- 🔐 Labs Completed: 16 / 30
+- 📝 Medium Articles Published: 6
