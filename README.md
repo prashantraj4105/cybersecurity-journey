@@ -27,7 +27,7 @@ notes, and writeups.
 | 13 | Client Server Basics | Jun 2026 | N/A | YouTube walkthrough |
 | 14 | Virtualisation Basics | Jun 2026 | N/A | YouTube walkthrough |
 | 15 | Cloud Computing Basics | Jun 2026 | N/A | YouTube walkthrough |
-| 16 | Operating Systems Introduction | Jun 2026 | ✅ | [Medium](your link) |
+| 16 | Operating Systems Introduction | Jun 2026 | ✅ | [Medium]([your link](https://medium.com/@rajprashantwork/why-your-apps-cant-touch-your-hardware-directly-operating-systems-7255cb748420)) |
 
 
 ## Stats
